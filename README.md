@@ -3,5 +3,5 @@ Libro sobre Go donde vamos a ir elaborando el proyecto-talleres sobre el lenguaj
 
 ## Índice
 1. [Tratamiento de directorios y ficheros](./directorios/directorios.md)
-1. [Tratamiento de fechas](./fechas/fechas.md)
-1. [Tratamiento de procesos](./procesos/procesos.md)
+2. [Tratamiento de fechas](./fechas/fechas.md)
+3. [Tratamiento de procesos](./procesos/procesos.md)
